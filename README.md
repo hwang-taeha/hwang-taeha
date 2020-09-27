@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="457" alt="gitmain" src="https://user-images.githubusercontent.com/35419181/94357251-2d6a3780-00d2-11eb-8d5f-2a424726226b.png">
 
 <!--
 **hwang-taeha/hwang-taeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
